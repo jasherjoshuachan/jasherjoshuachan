@@ -6,6 +6,8 @@ QBO ProAdvisor · Xero Advisor · I build financial infrastructure and automatio
 
 Based in Bacolod City, Philippines · Available for international engagements
 
+> **Open to work** — seeking roles in fintech, accounting SaaS, or ops-heavy startups. [Book a 30-min call](https://cal.com/truehubsolutions/career-chat) or [view my portfolio](https://jasherchan.truehubsolutions.com).
+
 ---
 
 ## What I Build
@@ -41,6 +43,20 @@ I sit at the intersection of accounting and engineering. Most developers don't u
 
 **Business Operations**
 `Operations Management` `Project Management` `Team Leadership` `Vendor Management` `Hospitality & F&B Ops`
+
+---
+
+## Tools I Use Daily
+
+| Category | Tools |
+|---|---|
+| Bookkeeping | Xero, QuickBooks Online |
+| Automation | n8n (self-hosted), Google Apps Script |
+| Backend | Python, FastAPI |
+| Frontend | Next.js, React, Tailwind CSS |
+| Infrastructure | Hetzner VPS, Cloudflare Pages, Docker |
+| AI | Claude API, custom LLM gateway |
+| Productivity | Notion, Obsidian, Linear |
 
 ---
 
