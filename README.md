@@ -20,6 +20,14 @@ I sit at the intersection of accounting and engineering. Most developers don't u
 
 ---
 
+## Currently Building
+
+- Expanding the HSK Platform — adding financial dashboards and automated monthly close reporting
+- Deepening Python + FastAPI for more complex financial system backends
+- Building out public documentation for client work that can be shared
+
+---
+
 ## Stack
 
 **Finance & Accounting**
@@ -41,6 +49,14 @@ I sit at the intersection of accounting and engineering. Most developers don't u
 - **QuickBooks ProAdvisor** — Intuit
 - **Xero Advisor Certified** — Xero Limited
 - **B.S. Business Administration**, Major in Operations Management — University of St. La Salle
+
+---
+
+## GitHub Stats
+
+![Jasher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasherjoshuachan&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasherjoshuachan&layout=compact&hide_border=true&langs_count=6)
 
 ---
 
