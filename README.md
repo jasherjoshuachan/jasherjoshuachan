@@ -1,62 +1,54 @@
 # Jasher Joshua A. Chan
 
-**Business Systems Developer · Bookkeeper & Automation Engineer**
+**AI Automation Engineer · n8n · Claude · Agent Systems**
 
-QBO ProAdvisor · Xero Advisor · I build financial infrastructure and automation systems for businesses that want to run without friction — clean books, smart tooling, and the integrations that tie it all together.
+I build production multi-agent systems and end-to-end workflow automation for international SMEs and AI-native agencies. My edge: a decade of real operations across Singapore hospitality and international bookkeeping — I understand the business problem before I write the first line of code.
 
-Based in Bacolod City, Philippines · Available for international engagements
+Based in Bacolod City, Philippines · Open to remote roles worldwide
 
-> **Open to work** — seeking roles in fintech, accounting SaaS, or ops-heavy startups. [Book a 30-min call](https://cal.com/truehubsolutions/career-chat) or [view my portfolio](https://jasherchan.truehubsolutions.com).
-
----
-
-## What I Build
-
-I sit at the intersection of accounting and engineering. Most developers don't understand double-entry bookkeeping. Most bookkeepers can't ship an API integration. I do both.
-
-**Selected work:**
-
-- **Operational infrastructure for a recycled materials trading company** — full Xero bookkeeping, payroll system, expense tracker, leave management, and a custom web app. Stack: AppSheet · FastAPI · Python · Google Sheets · Apps Script · Xero API
-- **Website + automation stack for an NGO** — rebuilt their digital presence and automated donor comms, internal reporting, and social feeds. Stack: WordPress · n8n · Cloudflare Pages · Meta APIs
-- **Multi-agent AI system for agency operations** — 6 specialized agents handling communications, task routing, and bookkeeping support across Telegram & WhatsApp. Stack: OpenClaw · Python · Telegram Bot API · Baileys · Hetzner VPS
+> **Open to work** — seeking senior remote roles at AI-native startups and Founding Engineer positions. [Book a call](https://cal.com/truehubsolutions/career-chat) · [Portfolio](https://jasherchan.truehubsolutions.com)
 
 ---
 
-## Currently Building
+## What I Ship
 
-- Expanding the HSK Platform — adding financial dashboards and automated monthly close reporting
-- Deepening Python + FastAPI for more complex financial system backends
-- Building out public documentation for client work that can be shared
+**Multi-agent AI systems** — 6-agent operational system (OpenClaw) handling communications, task routing, and bookkeeping support across Telegram and WhatsApp. Claude + Groq + Python + Hetzner VPS.
+
+**Workflow automation pipelines** — WhatsApp Cloud API intake pipeline with n8n, Notion CRM, auto-reply, and real-time ops notification. Zero missed contacts.
+
+**Operational platforms** — Full financial and operational infrastructure for an international recycled materials business: Xero bookkeeping, custom payroll, expense automation, AppSheet + FastAPI web app.
+
+**Web + automation stacks** — Rebuilt an NGO's digital presence and automated donor comms, internal reporting, and social workflows. Lean team, outsized leverage.
+
+---
+
+## Repos
+
+| Repo | What it is |
+|---|---|
+| [claude-agent-patterns](https://github.com/jasherjoshuachan/claude-agent-patterns) | 4 production Claude API patterns: tool use, multi-step, memory, structured output |
+| [ths-whatsapp-intake](https://github.com/jasherjoshuachan/ths-whatsapp-intake) | WhatsApp Cloud API → n8n → Notion intake pipeline |
+| [claude-max-api-proxy](https://github.com/jasherjoshuachan/claude-max-api-proxy) | Self-hosted LLM gateway for the OpenClaw multi-agent system |
+| [job-hunt-automation](https://github.com/jasherjoshuachan/job-hunt-automation) | Notion + n8n job application tracker with weekly digest |
+| [jasher-portfolio](https://github.com/jasherjoshuachan/jasher-portfolio) | Source for jasherchan.truehubsolutions.com — Next.js 16, Cloudflare Pages |
+| [truehubsolutions/hsk-platform](https://github.com/truehubsolutions/hsk-platform) | Operational platform for a recycled materials trading client |
+| [truehubsolutions/wao-foundation-stack](https://github.com/truehubsolutions/wao-foundation-stack) | Website + automation stack for an NGO |
 
 ---
 
 ## Stack
 
-**Finance & Accounting**
-`Xero` `QuickBooks Online` `Payroll` `Financial Reporting` `A/P · A/R` `Bank Reconciliation` `Expense Management`
-
-**Development & Infrastructure**
-`Python` `FastAPI` `Next.js` `React` `Tailwind CSS` `Google Apps Script` `AppSheet` `REST API Integration` `Xero API` `WordPress` `Cloudflare Pages` `Git` `Linux / VPS` `n8n` `Telegram Bot API`
-
 **AI & Automation**
-`AI Agent Architecture` `LLM Integration` `Multi-Agent Systems` `Workflow Automation` `Business Process Automation` `Prompt Engineering` `System Integration`
+`Claude API` `OpenAI API` `n8n` `Multi-Agent Systems` `LLM Integration` `Prompt Engineering` `WhatsApp Cloud API` `Telegram Bot API` `Workflow Automation`
 
-**Business Operations**
-`Operations Management` `Project Management` `Team Leadership` `Vendor Management` `Hospitality & F&B Ops`
+**Development**
+`Python` `FastAPI` `TypeScript` `Next.js` `React` `Tailwind CSS` `Google Apps Script` `AppSheet` `REST APIs` `Xero API`
 
----
+**Infrastructure**
+`Cloudflare Pages` `Cloudflare Workers` `Hetzner VPS` `Linux` `Docker` `Git` `GitHub Actions`
 
-## Tools I Use Daily
-
-| Category | Tools |
-|---|---|
-| Bookkeeping | Xero, QuickBooks Online |
-| Automation | n8n (self-hosted), Google Apps Script |
-| Backend | Python, FastAPI |
-| Frontend | Next.js, React, Tailwind CSS |
-| Infrastructure | Hetzner VPS, Cloudflare Pages, Docker |
-| AI | Claude API, custom LLM gateway |
-| Productivity | Notion, Obsidian, Linear |
+**Finance & Ops**
+`Xero` `QuickBooks Online` `Payroll` `Bank Reconciliation` `Financial Reporting` `Operations Management`
 
 ---
 
@@ -68,7 +60,7 @@ I sit at the intersection of accounting and engineering. Most developers don't u
 
 ---
 
-## GitHub Stats
+## Stats
 
 ![Jasher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasherjoshuachan&show_icons=true&theme=default&hide_border=true&count_private=true)
 
@@ -78,7 +70,7 @@ I sit at the intersection of accounting and engineering. Most developers don't u
 
 ## Find Me
 
-- 🌐 Portfolio: [jasherchan.truehubsolutions.com](https://jasherchan.truehubsolutions.com)
-- 💼 LinkedIn: [linkedin.com/in/jasherchan](https://linkedin.com/in/jasherchan)
+- 🌐 [jasherchan.truehubsolutions.com](https://jasherchan.truehubsolutions.com)
+- 💼 [linkedin.com/in/jasherchan](https://linkedin.com/in/jasherchan)
 - 📧 jasherchan@truehubsolutions.com
-- 📍 Bacolod City, Philippines
+- 📍 Bacolod City, Philippines (UTC+8)
